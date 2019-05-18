@@ -1,14 +1,17 @@
 ## Education
 ### Nanyang Technological University
 M.SC IN ELECTRONICS
+
 Thesis: Engineered substrate for electronics and photonics applications.
 
 ### KLUniversity
 B.TECH IN ELECTRONICS AND COMMUNICATIONS ENGINEERING
+
 Thesis: Multimode, Multiband software defined radio using NI-USRP.
 
 ## Skills
 **Programming**  Python, C/C++, Verilog, System Verilog, ROS
+
 **Tools** Cadence AMS Designer, Virtuoso, Encounter, RTL compiler, Questasim
 
 ## Experience
