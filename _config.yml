@@ -1,4 +1,5 @@
 title                    : "Resume"
-
+staticman:
+   allowedFields          : ['Yaswanth Tavva', 'yaswanth001@e.ntu.edu.sg', 'url', 'Research Assistant']
 
 theme: jekyll-theme-cayman
