@@ -1,5 +1,11 @@
 title                    : "Resume"
+url                      : https://yswntht.github.io 
 staticman:
-   allowedFields          : ['Yaswanth Tavva', 'yaswanth001@e.ntu.edu.sg', 'url', 'Research Assistant']
+  allowedFields          : ['Yaswanth Tavva', 'yaswanth001@e.ntu.edu.sg', 'url', 'Research Assistant']
 
+author:
+  name             : "Yaswanth Tavva"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Singapore"
 theme: jekyll-theme-cayman
